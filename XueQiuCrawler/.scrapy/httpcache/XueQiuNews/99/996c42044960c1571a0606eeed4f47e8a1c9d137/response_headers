@@ -1,0 +1,8 @@
+Trace-Id: 365ab7d3ac218e9a
+Set-Cookie: aliyungf_tc=AQAAAN9M3AAuOAUA9aSH24QJF0JretKR; Path=/; HttpOnly
+Strict-Transport-Security: max-age=31536000
+Server: openresty/1.11.2.4
+Cache-Control: private, no-store, no-cache, must-revalidate, max-age=0
+Date: Mon, 25 Sep 2017 09:25:40 GMT
+P3P: "CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT""
+Content-Type: application/json;charset=UTF-8
